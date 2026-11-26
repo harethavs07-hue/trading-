@@ -1,0 +1,6 @@
+{
+  "name": "Chart Arena",
+  "description": "Cyberpunk trading prediction arcade with procedural candlestick charts, anti-repetition engine, anime trader coach, and owner studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
